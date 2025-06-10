@@ -10,6 +10,7 @@
     "typescript": "^5"
   },
   "dependencies": {
-    "ozean": "__OZEAN_VERSION__"
+    "ozean": "__OZEAN_VERSION__",
+    "reflect-metadata": "^0.2.2"
   }
 }
